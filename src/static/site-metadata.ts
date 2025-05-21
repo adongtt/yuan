@@ -16,9 +16,9 @@ const getBasePath = () => {
 };
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'adong的跑步世界',
-  siteUrl: 'https://adongtt.github.io/adong',
-  logo: 'https://uk.weika.live/github.jpg',
+  siteTitle: 'yuan的跑步页面',
+  siteUrl: 'https://adongtt.github.io/yuan',
+  logo: 'https://uk.weika.live/yuan.jpg',
   description: 'Personal site and blog',
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [
@@ -28,11 +28,11 @@ const data: ISiteMetadataResult = {
     },
     {
       name: 'Blog',
-      url: 'https://adongtt.github.io/adong',
+      url: 'https://adongtt.github.io/yuan',
     },
     {
       name: 'About',
-      url: 'https://adongtt.github.io/adong',
+      url: 'https://adongtt.github.io/yuan',
     },
   ],
 };
